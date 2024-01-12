@@ -35,4 +35,4 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Run tests
-        run: npm run tests-e2e
+        run:  npm run test-e2e
